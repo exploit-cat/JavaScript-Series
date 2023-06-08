@@ -1,0 +1,1 @@
+console.log('WOW we are on are first JS lacture');
